@@ -1,5 +1,5 @@
 # synctest2
-mgit同步测试用，使用带.git的url
+mgit同步测试用的仓库，使用带.git的url
 
 2022-04-29 11点33分
 
